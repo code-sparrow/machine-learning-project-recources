@@ -1,6 +1,6 @@
 # machine-learning-project-resources
 
-## Project Checklists/Orginization/Practice
+## Project Checklists/Organization/Practice
 
 - [Organizing machine learning projects: project management guidelines](https://medium.com/comet-ml/organizing-machine-learning-projects-project-management-guidelines-2d2b85651bbd)
 - [The Machine Learning Project Checklist](https://towardsdatascience.com/the-machine-learning-project-checklist-d9ee6e33a2b2)
