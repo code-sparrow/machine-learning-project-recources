@@ -1,1 +1,1 @@
-# machine-learning-project-recources
+# machine-learning-project-resources
