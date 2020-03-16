@@ -30,3 +30,6 @@
 	- [Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 	- [Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 	- [Subreddit](https://www.reddit.com/r/datasets/)
+
+### ...for the BackRow Crew...
+![BRG](CheatSheets/backrow.jpg)
