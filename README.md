@@ -12,21 +12,21 @@
 ## Getting Data
 
 * Open Data
- - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
- - [Kaggle datasets](https://www.kaggle.com/datasets)
- - [Amazon’s AWS datasets](https://registry.opendata.aws/)
- - [World Bank](https://datacatalog.worldbank.org/)
- - [Google BigQuery](https://cloud.google.com/bigquery/public-data/)
+	- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+	- [Kaggle datasets](https://www.kaggle.com/datasets)
+	- [Amazon’s AWS datasets](https://registry.opendata.aws/)
+	- [World Bank](https://datacatalog.worldbank.org/)
+	- [Google BigQuery](https://cloud.google.com/bigquery/public-data/)
 
 * Meta Portals
- - [bigml](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
- - [Quandl](http://quandl.com/)
- - [OpenDataMonitor](http://opendatamonitor.eu/)
- - [Data Portals](http://dataportals.org/)
- - [AwesomeData GitHub Repo](https://github.com/awesomedata/awesome-public-datasets)
- - [Five Thirty Eight GitHub Repo](https://github.com/fivethirtyeight/data)
+	- [bigml](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
+	- [Quandl](http://quandl.com/)
+	- [OpenDataMonitor](http://opendatamonitor.eu/)
+	- [Data Portals](http://dataportals.org/)
+	- [AwesomeData GitHub Repo](https://github.com/awesomedata/awesome-public-datasets)
+	- [Five Thirty Eight GitHub Repo](https://github.com/fivethirtyeight/data)
 
 * Others
- - [Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
- - [Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
- - [Subreddit](https://www.reddit.com/r/datasets/)
+	- [Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+	- [Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+	- [Subreddit](https://www.reddit.com/r/datasets/)
