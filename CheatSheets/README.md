@@ -1,34 +1,34 @@
 # DataCamp CheatSheets
 
 ## Jupyter Notebooks
-![Jupyter](Jupyter_Notebooks.pdf)
+![Jupyter](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Jupyter_Notebooks.pdf)
 
 ## Python Basics
-![Basics](Python_Basics.pdf)
+![Basics](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Python_Basics.pdf)
 
 ## NumPy
-![NumPy](NumPy_Basics.pdf)
+![NumPy](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/NumPy_Basics.pdf)
 
 ## Pandas
-![Pandas](Pandas_Basics.pdf)
-![Import](Importing_Data.pdf)
-![Wrangling](Pandas_Wrangling.pdf)
+![Pandas](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Pandas_Basics.pdf)
+![Import](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Importing_Data.pdf)
+![Wrangling](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Pandas_Wrangling.pdf)
 
 ## SciPy
-![SciPy](SciPy_LinAlg.pdf)
+![SciPy](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/SciPy_LinAlg.pdf)
 
 ## Matplotlib
-![Matplotlib](Matplotlib.pdf)
+![Matplotlib](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Matplotlib.pdf)
 
 ## Seaborn
-![Seaborn](Seaborn.pdf)
+![Seaborn](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Seaborn.pdf)
 
 ## SciKit_Learn
-![Scikit_Learn](Scikit_Learn.pdf)
+![Scikit_Learn](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Scikit_Learn.pdf)
 
 ## PySpark
-![SQL](PySpark_SQL.pdf)
-![RDD](PySpark_RDD.pdf)
+![SQL](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/PySpark_SQL.pdf)
+![RDD](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/PySpark_RDD.pdf)
 
 ## Keras
-![Keras](Keras.pdf)
+![Keras](https://code-sparrow.github.io/machine-learning-project-resources/CheatSheets/Keras.pdf)
