@@ -32,4 +32,4 @@
 	- [Subreddit](https://www.reddit.com/r/datasets/)
 
 ### ...for the BackRow Crew...
-![BRG](CheatSheets/backrow.jpg)
+![BRG](CheatSheets/resources/backrow.jpg)
